@@ -94,3 +94,27 @@ Date of the Event: 2019-10-11T20:00:00
 Title: Inception
 Release Year: 2010
 IMDB Rating: 8.8
+**********Movie INFO*********
+Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+**********Movie INFO*********
+Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+**********Movie INFO*********
+Title: Undefined
+Release Year: 2006
+IMDB Rating: 6.5
+**********Movie INFO*********
+Title: Undefined
+Release Year: 2006
+IMDB Rating: 6.5
+**********Movie INFO*********
+Title: Undefined
+Release Year: 2006
+IMDB Rating: 6.5
+**********Movie INFO*********
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8

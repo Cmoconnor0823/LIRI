@@ -122,13 +122,9 @@ function showConcertInfo(searchParam) {
 //country where movie was produced, language of the movie, plot, and actors
 function showMovieInfo(searchParam) {
 
-
-    var findMovie;
     if (searchParam === undefined) {
-        findMovie = "Mr. Nobody";
-    } else {
-        findMovie = searchParam;
-    };
+        searchParam = "Mr. Nobody";
+    } 
 
     var queryUrl = "http://www.omdbapi.com/?t=" + searchParam + "&y=&plot=short&apikey=trilogy";
     request(queryUrl, function (err, res, body) {
@@ -137,7 +133,7 @@ function showMovieInfo(searchParam) {
                 console.log(chalk.blue("**********Movie INFO*********\n"));
                 fs.appendFileSync("log.txt", "**********Movie INFO*********\n");
                 
-                console.log(movies);
+                //console.log(movies);
                 //fs.appendFileSync("log.txt", i + "\n");
                 
                 console.log(chalk.green("Title: " + movies.Title));
