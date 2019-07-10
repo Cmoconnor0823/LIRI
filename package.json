@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Cmoconnor0823/LIRI/issues"
   },
-  "homepage": "https://github.com/Cmoconnor0823/LIRI#readme"
+  "homepage": "https://github.com/Cmoconnor0823/LIRI#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "dotenv": "^8.0.0",
+    "node-spotify-api": "^1.1.1",
+    "request": "^2.88.0"
+  }
 }
