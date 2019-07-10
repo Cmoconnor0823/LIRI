@@ -30,6 +30,7 @@ function userSearch(searchOpt, searchParam) {
         //stop console log test and creat a default with a error -- this should help varify user input
         case "concert-this":
             showConcertInfo(searchParam);
+            // Here is a link to the working concert search https://drive.google.com/file/d/1P4_ID6YV-DYgMaJGKTYQW6x5OtBzYSWQ/view
             break;
         case "movie-this":
             showMovieInfo(searchParam);
@@ -124,6 +125,11 @@ function showMovieInfo(searchParam) {
 
     if (searchParam === undefined) {
         searchParam = "Mr. Nobody";
+        console.log(chalk.green("~~~~~~~~~~~~~~~~~\n"));
+        fs.appendFileSync("log.text", "~~~~~~~~~~~~~~~~~\n");
+        console.log(chalk.cyan("If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/" +"\n"));
+        fs.appendFileSync("log.txt", "It's on Netflix!\n");
+        console.log(chalk.blue("It's on Netflix!"));
     } 
 
     var queryUrl = "http://www.omdbapi.com/?t=" + searchParam + "&y=&plot=short&apikey=trilogy";
