@@ -88,3 +88,806 @@ Name of the Venue: Xcite Center at Parx Casino
 Venue Location: Philadelphia
 Date of the Event: 2019-10-11T20:00:00
 *****************************
+**********Movie INFO*********
+**********Movie INFO*********
+**********Movie INFO*********
+Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+**********Movie INFO*********
+Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+**********Movie INFO*********
+Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+**********Movie INFO*********
+Title: Undefined
+Release Year: 2006
+IMDB Rating: 6.5
+**********Movie INFO*********
+Title: Undefined
+Release Year: 2006
+IMDB Rating: 6.5
+**********Movie INFO*********
+Title: Undefined
+Release Year: 2006
+IMDB Rating: 6.5
+**********Movie INFO*********
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+**********Movie INFO*********
+Title: Jumanji
+Release Year: 1995
+IMDB Rating: 7.0
+**********EVENT INFO*********
+0
+Name of the Venue: Paramount Theatre
+Venue Location: Seattle
+Date of the Event: 2019-09-14T20:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Portland'5 Keller Auditorium
+Venue Location: Portland
+Date of the Event: 2019-09-15T19:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Fox Theater
+Venue Location: Oakland
+Date of the Event: 2019-09-17T20:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Greek Theatre
+Venue Location: Los Angeles
+Date of the Event: 2019-09-18T19:30:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Paramount Theatre
+Venue Location: Denver
+Date of the Event: 2019-09-21T20:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: State Theatre Minneapolis
+Venue Location: Minneapolis
+Date of the Event: 2019-09-24T20:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-09-26T20:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Fox Theatre Detroit
+Venue Location: Detroit
+Date of the Event: 2019-09-28T20:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Pier 17 at South Street Seaport
+Venue Location: New York
+Date of the Event: 2019-10-01T19:30:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Orpheum Theatre
+Venue Location: Boston
+Date of the Event: 2019-10-03T20:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Oakdale Theatre
+Venue Location: Wallingford
+Date of the Event: 2019-10-05T20:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Sony Centre for Performing Arts
+Venue Location: Toronto
+Date of the Event: 2019-10-06T20:00:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Roxian Theatre
+Venue Location: Pittsburgh
+Date of the Event: 2019-10-08T20:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: MGM National Harbor
+Venue Location: Washington
+Date of the Event: 2019-10-09T20:00:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: Xcite Center at Parx Casino
+Venue Location: Philadelphia
+Date of the Event: 2019-10-11T20:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Paramount Theatre
+Venue Location: Seattle
+Date of the Event: 2019-09-14T20:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Portland'5 Keller Auditorium
+Venue Location: Portland
+Date of the Event: 2019-09-15T19:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Fox Theater
+Venue Location: Oakland
+Date of the Event: 2019-09-17T20:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Greek Theatre
+Venue Location: Los Angeles
+Date of the Event: 2019-09-18T19:30:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Paramount Theatre
+Venue Location: Denver
+Date of the Event: 2019-09-21T20:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: State Theatre Minneapolis
+Venue Location: Minneapolis
+Date of the Event: 2019-09-24T20:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Chicago Theatre
+Venue Location: Chicago
+Date of the Event: 2019-09-26T20:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Fox Theatre Detroit
+Venue Location: Detroit
+Date of the Event: 2019-09-28T20:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Pier 17 at South Street Seaport
+Venue Location: New York
+Date of the Event: 2019-10-01T19:30:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Orpheum Theatre
+Venue Location: Boston
+Date of the Event: 2019-10-03T20:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Oakdale Theatre
+Venue Location: Wallingford
+Date of the Event: 2019-10-05T20:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Sony Centre for Performing Arts
+Venue Location: Toronto
+Date of the Event: 2019-10-06T20:00:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Roxian Theatre
+Venue Location: Pittsburgh
+Date of the Event: 2019-10-08T20:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: MGM National Harbor
+Venue Location: Washington
+Date of the Event: 2019-10-09T20:00:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: Xcite Center at Parx Casino
+Venue Location: Philadelphia
+Date of the Event: 2019-10-11T20:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Soaring Eagle Casino & Resort
+Venue Location: Mount Pleasant
+Date of the Event: 2019-07-11T19:30:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Bank of New Hampshire Pavilion
+Venue Location: Gilford
+Date of the Event: 2019-07-14T19:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Northern Quest Casino
+Venue Location: Airway Heights
+Date of the Event: 2019-07-18T19:30:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Northern Quest Casino
+Venue Location: Airway Heights
+Date of the Event: 2019-07-19T19:30:00
+*****************************
+It's on Netflix!
+**********Movie INFO*********
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+*****Song Info*****
+0
+song name: Jump - 2015 Remaster
+preview song: https://p.scdn.co/mp3-preview/f6e554cadfb84a511acbbd8661741b805ecca193?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: 1984 (Remastered)
+artist(s): Van Halen
+*****************************
+*****Song Info*****
+1
+song name: Jump Around
+preview song: https://p.scdn.co/mp3-preview/8c0563c907c9415db2c1f73220340325d27dd84d?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: House of Pain (Fine Malt Lyrics)
+artist(s): House Of Pain
+*****************************
+*****Song Info*****
+2
+song name: Jump (with Trippie Redd)
+preview song: null
+album: Jump (with Trippie Redd)
+artist(s): Julia Michaels
+*****************************
+*****Song Info*****
+3
+song name: Jump Out The Window
+preview song: null
+album: I Decided.
+artist(s): Big Sean
+*****************************
+*****Song Info*****
+4
+song name: One Jump Ahead
+preview song: null
+album: Aladdin (Original Motion Picture Soundtrack)
+artist(s): Mena Massoud
+*****************************
+*****Song Info*****
+5
+song name: Jump
+preview song: https://p.scdn.co/mp3-preview/048216266ed154b08ed225829b61aaaaff8e5b93?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Totally Krossed Out
+artist(s): Kris Kross
+*****************************
+*****Song Info*****
+6
+song name: One Jump Ahead (Reprise)
+preview song: null
+album: Aladdin (Original Motion Picture Soundtrack)
+artist(s): Mena Massoud
+*****************************
+*****Song Info*****
+7
+song name: Jump in the Line
+preview song: https://p.scdn.co/mp3-preview/6b4fa0e8064462dc9efa03f1c982b67c660872b3?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Jump Up Calypso
+artist(s): Harry Belafonte
+*****************************
+*****Song Info*****
+8
+song name: Jump Right In
+preview song: https://p.scdn.co/mp3-preview/5d54255cf973098775921d0edb8cb1b731504d6e?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Uncaged
+artist(s): Zac Brown Band
+*****************************
+*****Song Info*****
+9
+song name: One Jump Ahead (Reprise 2)
+preview song: null
+album: Aladdin (Original Motion Picture Soundtrack)
+artist(s): Mena Massoud
+*****************************
+*****Song Info*****
+10
+song name: The Jump Off
+preview song: https://p.scdn.co/mp3-preview/933d54d4e3a98dd52db264deb1334ca7dbe06817?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: La Bella Mafia
+artist(s): Lil' Kim
+*****************************
+*****Song Info*****
+11
+song name: One Jump Ahead - From "Aladdin"/Soundtrack Version
+preview song: null
+album: Aladdin Special Edition
+artist(s): Brad Kane
+*****************************
+*****Song Info*****
+12
+song name: One Jump Ahead
+preview song: null
+album: Aladdin (Original Motion Picture Soundtrack)
+artist(s): Brad Kane
+*****************************
+*****Song Info*****
+13
+song name: Jump Out the Face (feat. Future)
+preview song: https://p.scdn.co/mp3-preview/c267b461f4aa6115416a9e3a5f1f62d7550aa61a?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Dreams Worth More Than Money
+artist(s): Meek Mill
+*****************************
+*****Song Info*****
+14
+song name: Jump (feat. Gizzle)
+preview song: https://p.scdn.co/mp3-preview/884269ec66f33933a5e5c16fa97e21cfefdf5981?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: DROGAS Light
+artist(s): Lupe Fiasco
+*****************************
+*****Song Info*****
+15
+song name: Jump
+preview song: https://p.scdn.co/mp3-preview/23cd0d70b02b52e6dc7d1b31cc74f5a6d096e3a2?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: GO:OD AM
+artist(s): Mac Miller
+*****************************
+*****Song Info*****
+16
+song name: Jump (For My Love)
+preview song: https://p.scdn.co/mp3-preview/eec1e34e0c9c658541c2dd1063f8c0a3b0322ca2?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Fire! The Very Best of The Pointer Sisters
+artist(s): The Pointer Sisters
+*****************************
+*****Song Info*****
+17
+song name: Jump (For My Love)
+preview song: https://p.scdn.co/mp3-preview/d572c4f54c6da296e93eef486b92fff470dd59e3?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Break Out
+artist(s): The Pointer Sisters
+*****************************
+*****Song Info*****
+18
+song name: Jump Up, Super Star!
+preview song: https://p.scdn.co/mp3-preview/974243bb9f12f5a56c1c1a77e9f853ca44b0ac36?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Jump Up, Super Star!
+artist(s): VGR
+*****************************
+*****Song Info*****
+19
+song name: Jump
+preview song: https://p.scdn.co/mp3-preview/f834a5f4c6bd772503ce87c29e1593e13594f756?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Skool Luv Affair
+artist(s): BTS
+*****************************
+*****Song Info*****
+0
+song name: Private Eyes - Remastered
+preview song: https://p.scdn.co/mp3-preview/5a987f0b43341af84d1803affc8de551b2b62940?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Private Eyes
+artist(s): Daryl Hall & John Oates
+*****************************
+*****Song Info*****
+1
+song name: Still Cold / Pathway Private
+preview song: https://p.scdn.co/mp3-preview/4bafacb8d5585c76cca3fb30343e4be438c02479?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Red Teenage Melody
+artist(s): Night Lovell
+*****************************
+*****Song Info*****
+2
+song name: I Can't Go for That (No Can Do) - Remastered
+preview song: https://p.scdn.co/mp3-preview/4a558e1144aba588135ba366ea5a705a3f653b94?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Private Eyes
+artist(s): Daryl Hall & John Oates
+*****************************
+*****Song Info*****
+3
+song name: Riding With Private Malone
+preview song: https://p.scdn.co/mp3-preview/adfef52a662fbb00f664c76f68087b41924abd58?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Amigo
+artist(s): David Ball
+*****************************
+*****Song Info*****
+4
+song name: Read Your Mind
+preview song: null
+album: Private Room
+artist(s): Avant
+*****************************
+*****Song Info*****
+5
+song name: Private Show
+preview song: https://p.scdn.co/mp3-preview/036a953969c22e86d84bc04e8b427a3ed2a276d8?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Paperwork (Deluxe Explicit)
+artist(s): T.I.
+*****************************
+*****Song Info*****
+6
+song name: Calling All Angels
+preview song: https://p.scdn.co/mp3-preview/53dfd4a4e515975dcfc00ce37e0838cf3b7d247a?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: My Private Nation
+artist(s): Train
+*****************************
+*****Song Info*****
+7
+song name: Private School
+preview song: https://p.scdn.co/mp3-preview/bb127381adb5344214353427adfe6c070311b486?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Night Circus
+artist(s): Bryce Vine
+*****************************
+*****Song Info*****
+8
+song name: Private Presley
+preview song: https://p.scdn.co/mp3-preview/8efbec665027392c289328b804c551fc8e59c6ce?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Being So Normal
+artist(s): Peach Pit
+*****************************
+*****Song Info*****
+9
+song name: Private Idaho
+preview song: https://p.scdn.co/mp3-preview/4fd54e805260b5e7866d3e457c080d14c958c951?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Wild Planet
+artist(s): The B-52's
+*****************************
+*****Song Info*****
+10
+song name: Private Room
+preview song: https://p.scdn.co/mp3-preview/b0477cffa0ae80ec30ab9014d4334b6665c82677?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Private Room (feat. Rich Homie Quan) - Single
+artist(s): Boosie Badazz
+*****************************
+*****Song Info*****
+11
+song name: Private Eye
+preview song: https://p.scdn.co/mp3-preview/e56f5eadc1560d3bec3cc836ab43644abebc40e8?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: From Here to Infirmary
+artist(s): Alkaline Trio
+*****************************
+*****Song Info*****
+12
+song name: Walking in the Rain to a Café to Write Down Private Thoughts in Public
+preview song: https://p.scdn.co/mp3-preview/d50d3b043c1bf8600428eafa169046b66361f1ba?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Loveless Shadows
+artist(s): City Girl
+*****************************
+*****Song Info*****
+13
+song name: Private Caller
+preview song: https://p.scdn.co/mp3-preview/f6113173fba58da3ae318b960153b46368ff450d?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Portals Summer II
+artist(s): Skylar Spence
+*****************************
+*****Song Info*****
+14
+song name: Midnight City - Eric Prydz Private Remix
+preview song: https://p.scdn.co/mp3-preview/5808586c37cd15f78a89e37af970eff942f33164?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Midnight City (Eric Prydz Private Remix)
+artist(s): M83
+*****************************
+*****Song Info*****
+15
+song name: Private Fears in Public Places
+preview song: https://p.scdn.co/mp3-preview/eecd5784b658c9bf07f510305d915381aafe616b?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Aware
+artist(s): Front Porch Step
+*****************************
+*****Song Info*****
+16
+song name: Private Show
+preview song: https://p.scdn.co/mp3-preview/41804db5dee1f9671a11727d4845e8c7dd8a624c?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Glory Days: The Platinum Edition
+artist(s): Little Mix
+*****************************
+*****Song Info*****
+17
+song name: Wanna Be Close
+preview song: null
+album: Private Room
+artist(s): Avant
+*****************************
+*****Song Info*****
+18
+song name: Private Dancer - 2015 Remaster
+preview song: https://p.scdn.co/mp3-preview/6565769258ab515f46915b3b6f262c15b505e1b9?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Private Dancer (30th Anniversary Issue)
+artist(s): Tina Turner
+*****************************
+*****Song Info*****
+19
+song name: Keep It Private
+preview song: https://p.scdn.co/mp3-preview/1d01b69278b7f221b073ef1598678bdacfd42519?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Keep It Private
+artist(s): K.C. Hunt
+*****************************
+*****Song Info*****
+0
+song name: Money In The Grave (Drake ft. Rick Ross)
+preview song: null
+album: The Best In The World Pack
+artist(s): Drake
+*****************************
+*****Song Info*****
+1
+song name: Call You Mine (with Bebe Rexha)
+preview song: https://p.scdn.co/mp3-preview/3cd5a38c225dd3d4d67bf53f42b97a873785b34a?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: World War Joy
+artist(s): The Chainsmokers
+*****************************
+*****Song Info*****
+2
+song name: The Git Up
+preview song: https://p.scdn.co/mp3-preview/bf19add55f2da6c1095f0d2a5fc47fdf0c6c0634?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: The Git Up
+artist(s): Blanco Brown
+*****************************
+*****Song Info*****
+3
+song name: The Middle
+preview song: null
+album: The Middle
+artist(s): Zedd
+*****************************
+*****Song Info*****
+4
+song name: SLOW DANCING IN THE DARK
+preview song: https://p.scdn.co/mp3-preview/483355f39bb264b9828633561ab14a7a48e75270?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: BALLADS 1
+artist(s): Joji
+*****************************
+*****Song Info*****
+5
+song name: All Girls Are The Same
+preview song: null
+album: Goodbye & Good Riddance
+artist(s): Juice WRLD
+*****************************
+*****Song Info*****
+6
+song name: The Bones
+preview song: https://p.scdn.co/mp3-preview/fc33627ba3c42dbabe573a25fdc467375df2d7f1?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: GIRL
+artist(s): Maren Morris
+*****************************
+*****Song Info*****
+7
+song name: The Less I Know The Better
+preview song: null
+album: Currents
+artist(s): Tame Impala
+*****************************
+*****Song Info*****
+8
+song name: The Hills
+preview song: null
+album: Beauty Behind The Madness
+artist(s): The Weeknd
+*****************************
+*****Song Info*****
+9
+song name: All Around The World (La La La)
+preview song: https://p.scdn.co/mp3-preview/5d596bfe62a2fb24b77a32b1013520b261efaf7f?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: All Around The World (La La La)
+artist(s): R3HAB
+*****************************
+*****Song Info*****
+10
+song name: The Joker
+preview song: null
+album: The Joker
+artist(s): Steve Miller Band
+*****************************
+*****Song Info*****
+11
+song name: Boy With Luv (feat. Halsey)
+preview song: https://p.scdn.co/mp3-preview/d16797fb391fb909f3c46454d7cf89a2718f8171?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: MAP OF THE SOUL : PERSONA
+artist(s): BTS
+*****************************
+*****Song Info*****
+12
+song name: The Night We Met
+preview song: https://p.scdn.co/mp3-preview/eb1aee7ce7d3dd50ae65c964054f5eafd9dd4006?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Strange Trails
+artist(s): Lord Huron
+*****************************
+*****Song Info*****
+13
+song name: I THINK
+preview song: https://p.scdn.co/mp3-preview/02728662c29717a7607f50a038dcf43fecbaa891?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: IGOR
+artist(s): Tyler, The Creator
+*****************************
+*****Song Info*****
+14
+song name: Burn the House Down
+preview song: https://p.scdn.co/mp3-preview/6c0cb6f0dacc183603ae0e0ceeccd9100ba9e2c4?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: The Click (Deluxe Edition)
+artist(s): AJR
+*****************************
+*****Song Info*****
+15
+song name: Another One Bites The Dust - Remastered 2011
+preview song: null
+album: The Game (Deluxe Remastered Version)
+artist(s): Queen
+*****************************
+*****Song Info*****
+16
+song name: Here Comes The Sun - Remastered 2009
+preview song: null
+album: Abbey Road (Remastered)
+artist(s): The Beatles
+*****************************
+*****Song Info*****
+17
+song name: Daddy (feat. Rich The Kid)
+preview song: null
+album: Daddy
+artist(s): Blueface
+*****************************
+*****Song Info*****
+18
+song name: All The Stars (with SZA)
+preview song: null
+album: Black Panther The Album Music From And Inspired By
+artist(s): Kendrick Lamar
+*****************************
+*****Song Info*****
+19
+song name: Who Do You Love (with 5 Seconds of Summer)
+preview song: https://p.scdn.co/mp3-preview/e3ef260cdfe18ac3e66226ce235843469ea69b87?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: World War Joy
+artist(s): The Chainsmokers
+*****************************
+*****Song Info*****
+0
+song name: Idaho
+preview song: https://p.scdn.co/mp3-preview/66dec4f0bb5c1315eb7bbfeb306a6a707f096b9b?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: The Now Now
+artist(s): Gorillaz
+*****************************
+*****Song Info*****
+1
+song name: Private Idaho
+preview song: https://p.scdn.co/mp3-preview/4fd54e805260b5e7866d3e457c080d14c958c951?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Wild Planet
+artist(s): The B-52's
+*****************************
+*****Song Info*****
+2
+song name: Idaho
+preview song: https://p.scdn.co/mp3-preview/010283c4417a275c395489368365e01ab1a54f08?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: This Empty Northern Hemisphere
+artist(s): Gregory Alan Isakov
+*****************************
+*****Song Info*****
+3
+song name: Idaho
+preview song: https://p.scdn.co/mp3-preview/aa394130836a00c0597bf6ce504222eac28c88fa?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: The Animal Years
+artist(s): Josh Ritter
+*****************************
+*****Song Info*****
+4
+song name: Idaho
+preview song: https://p.scdn.co/mp3-preview/bc80d61c0ec75973db6e910471f53e1849702cb1?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Waiting to Inhale
+artist(s): Afroman
+*****************************
+*****Song Info*****
+5
+song name: Idaho
+preview song: https://p.scdn.co/mp3-preview/bc256310418731c53bb2f667098da5abc50e986b?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Long Night Moon
+artist(s): Reckless Kelly
+*****************************
+*****Song Info*****
+6
+song name: Idaho
+preview song: https://p.scdn.co/mp3-preview/3a83b9fa6ffd9d7b35fc0918dcd303ae0d7f56ff?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Town by Town
+artist(s): Yonder Mountain String Band
+*****************************
+*****Song Info*****
+7
+song name: Idaho Pines
+preview song: https://p.scdn.co/mp3-preview/d1c0adcd01ba4cd83907a8396b44b6be51ba2530?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Well-Oiled Machine
+artist(s): Hot Buttered Rum
+*****************************
+*****Song Info*****
+8
+song name: Private Idaho - Party Mix
+preview song: https://p.scdn.co/mp3-preview/c038e6f7baca981f669add5f49ebb173efd136a1?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Party Mix/Mesopotamia
+artist(s): The B-52's
+*****************************
+*****Song Info*****
+9
+song name: Idaho, Pt. 2
+preview song: https://p.scdn.co/mp3-preview/1ec6b4b6116d1d61e2383df30e88d7a68f8cc4ac?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Vacation II
+artist(s): Acid Ghost
+*****************************
+*****Song Info*****
+10
+song name: Twin Falls Idaho
+preview song: https://p.scdn.co/mp3-preview/085742d2c1dcf26f4444f83539201a1815970ac3?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: WorkTapes
+artist(s): Ron Pope
+*****************************
+*****Song Info*****
+11
+song name: Idaho - Live
+preview song: https://p.scdn.co/mp3-preview/c58eee526b00e864ca3e89b2803f391515ebfaad?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: The Best of BoDeans - Slash and Burn
+artist(s): Bodeans
+*****************************
+*****Song Info*****
+12
+song name: Idaho Cowboy
+preview song: https://p.scdn.co/mp3-preview/8b64db3154fe6a219c5afef55c7d9b6fe33321d8?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Somewhere In Time
+artist(s): Reckless Kelly
+*****************************
+*****Song Info*****
+13
+song name: Idaho
+preview song: https://p.scdn.co/mp3-preview/a88be4f0cd250940043373c3bcbdfc0d839a72dc?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Train
+artist(s): Train
+*****************************
+*****Song Info*****
+14
+song name: Idaho
+preview song: https://p.scdn.co/mp3-preview/f7efa47f8248fe8b99804d7e866815ace7862912?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Us
+artist(s): Bryan Lanning
+*****************************
+*****Song Info*****
+15
+song name: Private Idaho
+preview song: https://p.scdn.co/mp3-preview/4fd54e805260b5e7866d3e457c080d14c958c951?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Time Capsule
+artist(s): The B-52's
+*****************************
+*****Song Info*****
+16
+song name: Idaho
+preview song: null
+album: Delta Spirit
+artist(s): Delta Spirit
+*****************************
+*****Song Info*****
+17
+song name: Idaho
+preview song: https://p.scdn.co/mp3-preview/c1ce45573a6be180abec24322f01d7c1917e70a8?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Horse Latitudes Solo / Acoustic Demos
+artist(s): Jeffrey Foucault
+*****************************
+*****Song Info*****
+18
+song name: Idaho
+preview song: https://p.scdn.co/mp3-preview/7cff7a7aea2cf2cd4d6985091d268e7a8562234e?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Idaho
+artist(s): Bryan Lanning
+*****************************
+*****Song Info*****
+19
+song name: Idaho
+preview song: https://p.scdn.co/mp3-preview/33439c5de08184a85815a00eb71635085675487f?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Down Like Silver
+artist(s): Down Like Silver
+*****************************
