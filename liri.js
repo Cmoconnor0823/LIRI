@@ -52,21 +52,18 @@ function userSearch(searchOpt, searchParam) {
 //use the spotify npm
 function showSongInfo(searchParam) {
     if (searchParam === undefined) {
-        searchSong = "Ace of Base The Sign"; //default choice
-    } else {
-        searchSong = searchParam;
+        searchParam = "The Sign"; //default choice
     }
-    console.log("in spotify search");
-}
-spotify.search({
-    type: "track",
-    query: searchParam
-},
-    function (error, data) {
-        if (error) {
-            console.log("Error recorded: " + error);
-            return;
-        } else {
+    spotify.search(
+        {
+            type: "track",
+            query: searchParam
+        },
+        function (error, data) {
+            if (error) {
+                console.log("Error recorded: " + error);
+                return;
+            }
             var songs = data.tracks.items;
 
             for (var i = 0; i < songs.legnth; i++) {
@@ -86,7 +83,8 @@ spotify.search({
                 fs.appendFileSync("log.txt", "*****************************\n");
             }
         }
-    });
+    );
+};
 //function for bands in town name of the venue, venue location, date of the event using moment .js
 // use this link "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"
 
@@ -120,3 +118,49 @@ function showConcertInfo(searchParam) {
 
 
 // function for movies "omdb"
+//display movie title, year it came out, imdb rating, rotten tomatoes rating
+//country where movie was produced, language of the movie, plot, and actors
+function showMovieInfo(searchParam) {
+
+
+    var findMovie;
+    if (searchParam === undefined) {
+        findMovie = "Mr. Nobody";
+    } else {
+        findMovie = searchParam;
+    };
+
+    var queryUrl = "http://www.omdbapi.com/?t=" + searchParam + "&y=&plot=short&apikey=trilogy";
+    request(queryUrl, function (err, res, body) {
+        if (!err && res.statusCode === 200) {
+            var movies = JSON.parse(body);
+                console.log(chalk.blue("**********Movie INFO*********\n"));
+                fs.appendFileSync("log.txt", "**********Movie INFO*********\n");
+                
+                console.log(movies);
+                //fs.appendFileSync("log.txt", i + "\n");
+                
+                console.log(chalk.green("Title: " + movies.Title));
+                fs.appendFileSync("log.txt", "Title: " + movies.Title + "\n");
+                
+                console.log(chalk.green("Release Year: " + movies.Year));
+                fs.appendFileSync("log.txt", "Release Year: " + movies.Year + "\n");
+                
+                console.log(chalk.green("IMDB Rating: " + movies.imdbRating));
+                fs.appendFileSync("log.txt", "IMDB Rating: " + movies.imdbRating + "\n");
+                
+                console.log(chalk.green("Rotten Tomatoes Rating: " + movies.Ratings[1].Value));
+                
+                console.log(chalk.green("Country: " + movies.Country));
+                
+                console.log(chalk.green("Language: " + movies.Language));
+                
+                console.log(chalk.green("Plot: " + movies.Plot));
+                
+                console.log(chalk.green("Actors: " + movies.Actors));
+                
+                console.log(chalk.blue("\n---------------------------------------------------\n"));
+            }
+        
+        });
+};
