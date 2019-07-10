@@ -60,14 +60,14 @@ function showSongInfo(searchParam) {
             type: "track",
             query: searchParam
         },
-        function (error, data) {
-            if (error) {
-                console.log("Error recorded: " + error);
+        function (err, data) {
+            if (err) {
+                console.log("Error recorded: " + err);
                 return;
             }
             var songs = data.tracks.items;
 
-            for (var i = 0; i < songs.legnth; i++) {
+            for (var i = 0; i < songs.length; i++) {
                 console.log(chalk.blue("log.txt", "****Song Info*****\n"));
                 fs.appendFileSync("log.txt", "*****Song Info*****\n");
                 console.log(i);
