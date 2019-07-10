@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Cmoconnor0823/LIRI/issues"
   },
-  "homepage": "https://github.com/Cmoconnor0823/LIRI#readme"
+  "homepage": "https://github.com/Cmoconnor0823/LIRI#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0"
+  }
 }
