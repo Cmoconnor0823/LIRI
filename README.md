@@ -12,7 +12,7 @@ Now you may choose which search you would like to begin by inputing one of the f
 
 
 
-- ```node liri.js spotify-this-song "song name here"``` to return song information from Spotify. If no song is entered, The Sign by Ace of Base will be returned.
+- ***node liri.js spotify-this-song "song name here"*** to return song information from Spotify. If no song is entered, The Sign by Ace of Base will be returned.
   
   - ***node liri.js concert-this "artist/band name here"*** to return concert information from Bandsintown. 
   
