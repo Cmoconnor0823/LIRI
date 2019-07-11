@@ -10,13 +10,15 @@ var Spotify = require('node-spotify-api');
 var spotify = new Spotify(keys.spotify);
 //require file system npm
 var fs = require("fs");
+///check and see if you need this axios call......
+//var axios = require('axios');
 
 
 //found a npm for styling to make it more readable
 var chalk = require('chalk');
 //grab both which serch the user wants and what they are searching for
 var searchOpt = process.argv[2];
-var searchParam = process.argv[3];
+var searchParam = process.argv.slice(3).join(" ");
 
 //call the function to show search results
 userSearch(searchOpt, searchParam);
@@ -40,7 +42,7 @@ function userSearch(searchOpt, searchParam) {
             break;
 
         default:
-            console.log("Invalid Search. Please Input from the following options:\nspotify-this-song \nconcert-this")
+            console.log("Invalid Search. Please Input from the following options:\nspotify-this-song \nconcert-this \nmovie-this \ndo-what-it-says")
     }
 }
 
@@ -68,20 +70,20 @@ function showSongInfo(searchParam) {
             var songs = data.tracks.items;
 
             for (var i = 0; i < 5; i++) {
-                console.log(chalk.blue( "****Song Info*****\n"));
+                console.log(chalk.green( "****Song Info*****\n"));
                 fs.appendFileSync("log.txt", "*****Song Info*****\n");
                 console.log(i);
                 fs.appendFileSync("log.txt", i + "\n");
-                console.log("Song name: " + songs[i].name);
+                console.log(chalk.magenta("Song name: " + songs[i].name));
                 fs.appendFileSync("log.txt", "song name: " + songs[i].name + "\n");
-                console.log("Preview song: " + songs[i].preview_url);
+                console.log(chalk.blue("Preview song: " + songs[i].preview_url));
                 fs.appendFileSync("log.txt", "preview song: " + songs[i].preview_url + "\n");
-                console.log("Album: " + songs[i].album.name);
+                console.log(chalk.red("Album: " + songs[i].album.name));
                 fs.appendFileSync("log.txt", "album: " + songs[i].album.name + "\n");
-                console.log("Artist(s): " + songs[i].artists[0].name);
+                console.log(chalk.cyan("Artist(s): " + songs[i].artists[0].name));
                 fs.appendFileSync("log.txt", "artist(s): " + songs[i].artists[0].name + "\n");
-                console.log("*****************************");
-                fs.appendFileSync("log.txt", "*****************************\n");
+                console.log(chalk.green("####################################"));
+                fs.appendFileSync("log.txt", "####################################\n");
             }
         }
     );
@@ -108,8 +110,8 @@ function showConcertInfo(searchParam) {
                 fs.appendFileSync("log.txt", "Venue Location: " + concerts[i].venue.city + "\n");
                 console.log(chalk.bgGreen("Date of the Event: " + concerts[i].datetime));
                 fs.appendFileSync("log.txt", "Date of the Event: " + concerts[i].datetime + "\n");
-                console.log(chalk.blue("*****************************"));
-                fs.appendFileSync("log.txt", "*****************************" + "\n");
+                console.log(chalk.blue("####################################"));
+                fs.appendFileSync("log.txt", "####################################" + "\n");
             }
         } else {
             console.log('Error occurred.');
@@ -123,14 +125,16 @@ function showConcertInfo(searchParam) {
 //country where movie was produced, language of the movie, plot, and actors
 function showMovieInfo(searchParam) {
 
-    if (searchParam === undefined) {
-        searchParam = "Mr Nobody";
+
+    if (searchParam[3] === undefined) {
+        searchParam = "Mr. Nobody";
+
         console.log(chalk.green("~~~~~~~~~~~~~~~~~\n"));
         fs.appendFileSync("log.text", "~~~~~~~~~~~~~~~~~\n");
         console.log(chalk.cyan("If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/" +"\n"));
         fs.appendFileSync("log.txt", "It's on Netflix!\n");
         console.log(chalk.blue("It's on Netflix!"));
-    } 
+    }
 
     var queryUrl = "http://www.omdbapi.com/?t=" + searchParam + "&y=&plot=short&apikey=trilogy";
     request(queryUrl, function (err, res, body) {
@@ -142,10 +146,10 @@ function showMovieInfo(searchParam) {
                 //console.log(movies);
                 //fs.appendFileSync("log.txt", i + "\n");
                 
-                console.log(chalk.green("Title: " + movies.Title));
+                console.log(chalk.yellow("Title: " + movies.Title));
                 fs.appendFileSync("log.txt", "Title: " + movies.Title + "\n");
                 
-                console.log(chalk.green("Release Year: " + movies.Year));
+                console.log(chalk.underline("Release Year: " + movies.Year));
                 fs.appendFileSync("log.txt", "Release Year: " + movies.Year + "\n");
                 
                 console.log(chalk.green("IMDB Rating: " + movies.imdbRating));
@@ -153,19 +157,22 @@ function showMovieInfo(searchParam) {
                 
                 console.log(chalk.green("Rotten Tomatoes Rating: " + movies.Ratings[1].Value));
                 
-                console.log(chalk.green("Country: " + movies.Country));
+                console.log(chalk.gray("Country: " + movies.Country));
                 
-                console.log(chalk.green("Language: " + movies.Language));
+                console.log(chalk.gray("Language: " + movies.Language));
                 
-                console.log(chalk.green("Plot: " + movies.Plot));
+                console.log(chalk.red("Plot: " + movies.Plot));
                 
-                console.log(chalk.green("Actors: " + movies.Actors));
+                console.log(chalk.red("Actors: " + movies.Actors));
                 
-                console.log(chalk.blue("\n---------------------------------------------------\n"));
+                console.log(chalk.blue("\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n"));
             }
+    
         
+
         });
 };
+
 
 
 //function for using information provided by the random.txt file  
