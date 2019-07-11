@@ -40,7 +40,7 @@ function userSearch(searchOpt, searchParam) {
             break;
 
         default:
-            console.log("Invalid Search. Please Input from the following options:\nspotify-this-song")
+            console.log("Invalid Search. Please Input from the following options:\nspotify-this-song \nconcert-this")
     }
 }
 
@@ -67,8 +67,8 @@ function showSongInfo(searchParam) {
             }
             var songs = data.tracks.items;
 
-            for (var i = 0; i < songs.length; i++) {
-                console.log(chalk.blue("log.txt", "****Song Info*****\n"));
+            for (var i = 0; i < 5; i++) {
+                console.log(chalk.blue( "****Song Info*****\n"));
                 fs.appendFileSync("log.txt", "*****Song Info*****\n");
                 console.log(i);
                 fs.appendFileSync("log.txt", i + "\n");
@@ -90,13 +90,13 @@ function showSongInfo(searchParam) {
 // use this link "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"
 
 function showConcertInfo(searchParam) {
-    var queryUrl = "https://rest.bandsintown.com/artists/" + searchParam + "/events?app_id=codingbootcamp";
+    var queryUrl = "https://rest.bandsintown.com/artists/" + searchParam + "/events?app_id=codingbootcamp&date=upcoming";
 
     request(queryUrl, function (error, response, body) {
         // If the request is successful
         if (!error && response.statusCode === 200) {
             var concerts = JSON.parse(body);
-            for (var i = 0; i < concerts.length; i++) {
+            for (var i = 0; i < 5; i++) {
                 console.log(chalk.blue("**********EVENT INFO*********"));
                 //Append in log.txt file
                 fs.appendFileSync("log.txt", "**********EVENT INFO*********\n");
@@ -166,3 +166,19 @@ function showMovieInfo(searchParam) {
         
         });
 };
+
+
+//function for using information provided by the random.txt file  
+// try to get this to work for multiple queries
+function whatItSaysInfo(){
+	fs.readFile('random.txt', 'utf8', function(err, data){
+		if (err){ 
+			return console.log(err);
+		}
+        var dataArr = data.split(',');
+        userSearch(dataArr[0], dataArr[1]);
+        userSearch(dataArr[2],dataArr[3]);
+        userSearch(dataArr[4],dataArr[5]);
+        console.log(dataArr)
+	});
+}
