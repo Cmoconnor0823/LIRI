@@ -2116,3 +2116,838 @@ preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe0
 album: I Want It That Way
 artist(s): Mick Jensen
 *****************************
+**********Movie INFO*********
+Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+**********EVENT INFO*********
+0
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Bristow
+Date of the Event: 2019-07-11T19:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Bangor
+Date of the Event: 2019-07-13T19:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Festival d'été de Québec 2019
+Venue Location: Québec
+Date of the Event: 2019-07-14T19:00:10
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Cuyahoga Falls
+Date of the Event: 2019-07-16T19:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Darien Center
+Date of the Event: 2019-07-17T19:00:00
+*****************************
+*****Song Info*****
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+*****Song Info*****
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+*****Song Info*****
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+*****Song Info*****
+3
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+*****************************
+*****Song Info*****
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********Movie INFO*********
+Title: Toy Story
+Release Year: 1995
+IMDB Rating: 8.3
+**********EVENT INFO*********
+0
+**********EVENT INFO*********
+0
+**********EVENT INFO*********
+0
+**********EVENT INFO*********
+0
+Name of the Venue: Paramount Theatre
+Venue Location: Seattle
+Date of the Event: 2019-09-14T20:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Portland'5 Keller Auditorium
+Venue Location: Portland
+Date of the Event: 2019-09-15T19:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Fox Theater
+Venue Location: Oakland
+Date of the Event: 2019-09-17T20:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Greek Theatre
+Venue Location: Los Angeles
+Date of the Event: 2019-09-18T19:30:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Paramount Theatre
+Venue Location: Denver
+Date of the Event: 2019-09-21T20:00:00
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Soaring Eagle Casino & Resort
+Venue Location: Mount Pleasant
+Date of the Event: 2019-07-11T19:30:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Bank of New Hampshire Pavilion
+Venue Location: Gilford
+Date of the Event: 2019-07-14T19:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Northern Quest Casino
+Venue Location: Airway Heights
+Date of the Event: 2019-07-18T19:30:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Northern Quest Casino
+Venue Location: Airway Heights
+Date of the Event: 2019-07-19T19:30:00
+*****************************
+**********EVENT INFO*********
+4
+**********EVENT INFO*********
+0
+Name of the Venue: Soaring Eagle Casino & Resort
+Venue Location: Mount Pleasant
+Date of the Event: 2019-07-11T19:30:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Bank of New Hampshire Pavilion
+Venue Location: Gilford
+Date of the Event: 2019-07-14T19:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Northern Quest Casino
+Venue Location: Airway Heights
+Date of the Event: 2019-07-18T19:30:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Northern Quest Casino
+Venue Location: Airway Heights
+Date of the Event: 2019-07-19T19:30:00
+*****************************
+**********EVENT INFO*********
+4
+**********EVENT INFO*********
+0
+Name of the Venue: Bank of New Hampshire Pavilion
+Venue Location: Gilford
+Date of the Event: 2019-07-17T19:00:38
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Parc Beauséjour
+Venue Location: Rimouski
+Date of the Event: 2019-07-20T20:00:17
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Mississippi Valley Fair
+Venue Location: Davenport
+Date of the Event: 2019-08-03T19:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Ravinia Festival
+Venue Location: Highland Park
+Date of the Event: 2019-08-13T19:00:39
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Ravinia Festival
+Venue Location: Highland Park
+Date of the Event: 2019-08-14T19:00:59
+*****************************
+**********Movie INFO*********
+Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+**********EVENT INFO*********
+0
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Bristow
+Date of the Event: 2019-07-11T19:00:00
+####################################
+**********EVENT INFO*********
+1
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Bangor
+Date of the Event: 2019-07-13T19:00:00
+####################################
+**********EVENT INFO*********
+2
+Name of the Venue: Festival d'été de Québec 2019
+Venue Location: Québec
+Date of the Event: 2019-07-14T19:00:10
+####################################
+**********EVENT INFO*********
+3
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Cuyahoga Falls
+Date of the Event: 2019-07-16T19:00:00
+####################################
+**********EVENT INFO*********
+4
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Darien Center
+Date of the Event: 2019-07-17T19:00:00
+####################################
+*****Song Info*****
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+####################################
+*****Song Info*****
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Millennium
+artist(s): Backstreet Boys
+####################################
+*****Song Info*****
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Covers Part IV
+artist(s): Anthem Lights
+####################################
+*****Song Info*****
+3
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+####################################
+*****Song Info*****
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: I Want It That Way
+artist(s): Mick Jensen
+####################################
+**********Movie INFO*********
+Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+**********EVENT INFO*********
+0
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Bristow
+Date of the Event: 2019-07-11T19:00:00
+####################################
+**********EVENT INFO*********
+1
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Bangor
+Date of the Event: 2019-07-13T19:00:00
+####################################
+**********EVENT INFO*********
+2
+Name of the Venue: Festival d'été de Québec 2019
+Venue Location: Québec
+Date of the Event: 2019-07-14T19:00:10
+####################################
+**********EVENT INFO*********
+3
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Cuyahoga Falls
+Date of the Event: 2019-07-16T19:00:00
+####################################
+**********EVENT INFO*********
+4
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Darien Center
+Date of the Event: 2019-07-17T19:00:00
+####################################
+*****Song Info*****
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+####################################
+*****Song Info*****
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Millennium
+artist(s): Backstreet Boys
+####################################
+*****Song Info*****
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Covers Part IV
+artist(s): Anthem Lights
+####################################
+*****Song Info*****
+3
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+####################################
+*****Song Info*****
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: I Want It That Way
+artist(s): Mick Jensen
+####################################
+**********Movie INFO*********
+Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+**********EVENT INFO*********
+0
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Bristow
+Date of the Event: 2019-07-11T19:00:00
+####################################
+**********EVENT INFO*********
+1
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Bangor
+Date of the Event: 2019-07-13T19:00:00
+####################################
+**********EVENT INFO*********
+2
+Name of the Venue: Festival d'été de Québec 2019
+Venue Location: Québec
+Date of the Event: 2019-07-14T19:00:10
+####################################
+**********EVENT INFO*********
+3
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Cuyahoga Falls
+Date of the Event: 2019-07-16T19:00:00
+####################################
+**********EVENT INFO*********
+4
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Darien Center
+Date of the Event: 2019-07-17T19:00:00
+####################################
+*****Song Info*****
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+####################################
+*****Song Info*****
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Millennium
+artist(s): Backstreet Boys
+####################################
+*****Song Info*****
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Covers Part IV
+artist(s): Anthem Lights
+####################################
+*****Song Info*****
+3
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+####################################
+*****Song Info*****
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: I Want It That Way
+artist(s): Mick Jensen
+####################################
+**********Movie INFO*********
+Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+**********EVENT INFO*********
+0
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Bristow
+Date of the Event: 2019-07-11T19:00:00
+####################################
+**********EVENT INFO*********
+1
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Bangor
+Date of the Event: 2019-07-13T19:00:00
+####################################
+**********EVENT INFO*********
+2
+Name of the Venue: Festival d'été de Québec 2019
+Venue Location: Québec
+Date of the Event: 2019-07-14T19:00:10
+####################################
+**********EVENT INFO*********
+3
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Cuyahoga Falls
+Date of the Event: 2019-07-16T19:00:00
+####################################
+**********EVENT INFO*********
+4
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Darien Center
+Date of the Event: 2019-07-17T19:00:00
+####################################
+*****Song Info*****
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+####################################
+*****Song Info*****
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Millennium
+artist(s): Backstreet Boys
+####################################
+*****Song Info*****
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Covers Part IV
+artist(s): Anthem Lights
+####################################
+*****Song Info*****
+3
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+####################################
+*****Song Info*****
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: I Want It That Way
+artist(s): Mick Jensen
+####################################
+*****Song Info*****
+0
+song name: Jump - 2015 Remaster
+preview song: https://p.scdn.co/mp3-preview/f6e554cadfb84a511acbbd8661741b805ecca193?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: 1984 (Remastered)
+artist(s): Van Halen
+####################################
+*****Song Info*****
+1
+song name: Jump Around
+preview song: https://p.scdn.co/mp3-preview/8c0563c907c9415db2c1f73220340325d27dd84d?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: House of Pain (Fine Malt Lyrics)
+artist(s): House Of Pain
+####################################
+*****Song Info*****
+2
+song name: Jump (with Trippie Redd)
+preview song: null
+album: Jump (with Trippie Redd)
+artist(s): Julia Michaels
+####################################
+*****Song Info*****
+3
+song name: Jump Out The Window
+preview song: null
+album: I Decided.
+artist(s): Big Sean
+####################################
+*****Song Info*****
+4
+song name: One Jump Ahead
+preview song: null
+album: Aladdin (Original Motion Picture Soundtrack)
+artist(s): Mena Massoud
+####################################
+**********EVENT INFO*********
+0
+Name of the Venue: Paramount Theatre
+Venue Location: Seattle
+Date of the Event: 2019-09-14T20:00:00
+####################################
+**********EVENT INFO*********
+1
+Name of the Venue: Portland'5 Keller Auditorium
+Venue Location: Portland
+Date of the Event: 2019-09-15T19:00:00
+####################################
+**********EVENT INFO*********
+2
+Name of the Venue: Fox Theater
+Venue Location: Oakland
+Date of the Event: 2019-09-17T20:00:00
+####################################
+**********EVENT INFO*********
+3
+Name of the Venue: Greek Theatre
+Venue Location: Los Angeles
+Date of the Event: 2019-09-18T19:30:00
+####################################
+**********EVENT INFO*********
+4
+Name of the Venue: Paramount Theatre
+Venue Location: Denver
+Date of the Event: 2019-09-21T20:00:00
+####################################
+**********EVENT INFO*********
+0
+**********EVENT INFO*********
+0
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Bristow
+Date of the Event: 2019-07-11T19:00:00
+####################################
+**********EVENT INFO*********
+1
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Bangor
+Date of the Event: 2019-07-13T19:00:00
+####################################
+**********EVENT INFO*********
+2
+Name of the Venue: Festival d'été de Québec 2019
+Venue Location: Québec
+Date of the Event: 2019-07-14T19:00:10
+####################################
+**********EVENT INFO*********
+3
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Cuyahoga Falls
+Date of the Event: 2019-07-16T19:00:00
+####################################
+**********EVENT INFO*********
+4
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Darien Center
+Date of the Event: 2019-07-17T19:00:00
+####################################
+*****Song Info*****
+0
+song name: Jump - 2015 Remaster
+preview song: https://p.scdn.co/mp3-preview/f6e554cadfb84a511acbbd8661741b805ecca193?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: 1984 (Remastered)
+artist(s): Van Halen
+####################################
+*****Song Info*****
+1
+song name: Jump Around
+preview song: https://p.scdn.co/mp3-preview/8c0563c907c9415db2c1f73220340325d27dd84d?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: House of Pain (Fine Malt Lyrics)
+artist(s): House Of Pain
+####################################
+*****Song Info*****
+2
+song name: Jump (with Trippie Redd)
+preview song: null
+album: Jump (with Trippie Redd)
+artist(s): Julia Michaels
+####################################
+*****Song Info*****
+3
+song name: Jump Out The Window
+preview song: null
+album: I Decided.
+artist(s): Big Sean
+####################################
+*****Song Info*****
+4
+song name: One Jump Ahead
+preview song: null
+album: Aladdin (Original Motion Picture Soundtrack)
+artist(s): Mena Massoud
+####################################
+**********Movie INFO*********
+Title: Toy Story
+Release Year: 1995
+IMDB Rating: 8.3
+**********Movie INFO*********
+Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+**********EVENT INFO*********
+0
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Bristow
+Date of the Event: 2019-07-11T19:00:00
+####################################
+**********EVENT INFO*********
+1
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Bangor
+Date of the Event: 2019-07-13T19:00:00
+####################################
+**********EVENT INFO*********
+2
+Name of the Venue: Festival d'été de Québec 2019
+Venue Location: Québec
+Date of the Event: 2019-07-14T19:00:10
+####################################
+**********EVENT INFO*********
+3
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Cuyahoga Falls
+Date of the Event: 2019-07-16T19:00:00
+####################################
+**********EVENT INFO*********
+4
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Darien Center
+Date of the Event: 2019-07-17T19:00:00
+####################################
+*****Song Info*****
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+####################################
+*****Song Info*****
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Millennium
+artist(s): Backstreet Boys
+####################################
+*****Song Info*****
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Covers Part IV
+artist(s): Anthem Lights
+####################################
+*****Song Info*****
+3
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+####################################
+*****Song Info*****
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: I Want It That Way
+artist(s): Mick Jensen
+####################################
+**********Movie INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+**********Movie INFO*********
+Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+**********EVENT INFO*********
+0
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Bristow
+Date of the Event: 2019-07-11T19:00:00
+####################################
+**********EVENT INFO*********
+1
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Bangor
+Date of the Event: 2019-07-13T19:00:00
+####################################
+**********EVENT INFO*********
+2
+Name of the Venue: Festival d'été de Québec 2019
+Venue Location: Québec
+Date of the Event: 2019-07-14T19:00:10
+####################################
+**********EVENT INFO*********
+3
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Cuyahoga Falls
+Date of the Event: 2019-07-16T19:00:00
+####################################
+**********EVENT INFO*********
+4
+Name of the Venue: blink-182 & Lil Wayne Tour 2019
+Venue Location: Darien Center
+Date of the Event: 2019-07-17T19:00:00
+####################################
+*****Song Info*****
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+####################################
+*****Song Info*****
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Millennium
+artist(s): Backstreet Boys
+####################################
+*****Song Info*****
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: Covers Part IV
+artist(s): Anthem Lights
+####################################
+*****Song Info*****
+3
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+####################################
+*****Song Info*****
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: I Want It That Way
+artist(s): Mick Jensen
+####################################
+**********Movie INFO*********
+Title: Toy Story
+Release Year: 1995
+IMDB Rating: 8.3
+*****Song Info*****
+0
+song name: Jump - 2015 Remaster
+preview song: https://p.scdn.co/mp3-preview/f6e554cadfb84a511acbbd8661741b805ecca193?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: 1984 (Remastered)
+artist(s): Van Halen
+####################################
+*****Song Info*****
+1
+song name: Jump Around
+preview song: https://p.scdn.co/mp3-preview/8c0563c907c9415db2c1f73220340325d27dd84d?cid=e0f077ffa9ca427b889442f93eb1f75c
+album: House of Pain (Fine Malt Lyrics)
+artist(s): House Of Pain
+####################################
+*****Song Info*****
+2
+song name: Jump (with Trippie Redd)
+preview song: null
+album: Jump (with Trippie Redd)
+artist(s): Julia Michaels
+####################################
+*****Song Info*****
+3
+song name: Jump Out The Window
+preview song: null
+album: I Decided.
+artist(s): Big Sean
+####################################
+*****Song Info*****
+4
+song name: One Jump Ahead
+preview song: null
+album: Aladdin (Original Motion Picture Soundtrack)
+artist(s): Mena Massoud
+####################################
+**********EVENT INFO*********
+0
+Name of the Venue: Paramount Theatre
+Venue Location: Seattle
+Date of the Event: 2019-09-14T20:00:00
+####################################
+**********EVENT INFO*********
+1
+Name of the Venue: Portland'5 Keller Auditorium
+Venue Location: Portland
+Date of the Event: 2019-09-15T19:00:00
+####################################
+**********EVENT INFO*********
+2
+Name of the Venue: Fox Theater
+Venue Location: Oakland
+Date of the Event: 2019-09-17T20:00:00
+####################################
+**********EVENT INFO*********
+3
+Name of the Venue: Greek Theatre
+Venue Location: Los Angeles
+Date of the Event: 2019-09-18T19:30:00
+####################################
+**********EVENT INFO*********
+4
+Name of the Venue: Paramount Theatre
+Venue Location: Denver
+Date of the Event: 2019-09-21T20:00:00
+####################################
+**********Movie INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+**********Movie INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+**********Movie INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+**********Movie INFO*********
+Title: undefined
+Release Year: undefined
+IMDB Rating: undefined
+It's on Netflix!
+**********Movie INFO*********
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
