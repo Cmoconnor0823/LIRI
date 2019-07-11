@@ -125,8 +125,10 @@ function showConcertInfo(searchParam) {
 //country where movie was produced, language of the movie, plot, and actors
 function showMovieInfo(searchParam) {
 
+
     if (searchParam[3] === undefined) {
         searchParam = "Mr. Nobody";
+
         console.log(chalk.green("~~~~~~~~~~~~~~~~~\n"));
         fs.appendFileSync("log.text", "~~~~~~~~~~~~~~~~~\n");
         console.log(chalk.cyan("If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/" +"\n"));
