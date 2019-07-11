@@ -54,7 +54,7 @@ function userSearch(searchOpt, searchParam) {
 //show artist, song name, preview link, and album, o song provided default to "the sigh"by ace of base
 //use the spotify npm
 function showSongInfo(searchParam) {
-    if (searchParam === undefined) {
+    if (searchParam[3] === undefined) {
         searchParam = "The Sign"; //default choice
     }
     spotify.search(
