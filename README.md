@@ -44,5 +44,5 @@ This page was built with the following technologies, NPM Modules, and API's:
 
 
 For comments/ concerns contact the project 
-Author: Caitlin O'Connor  
-At: Cmoconnor0823@gmail.com
+* Author: Caitlin O'Connor  
+* At: Cmoconnor0823@gmail.com
