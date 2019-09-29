@@ -2,7 +2,7 @@
 a simple Language Interpretation and Recognition Interface. This javaScript program, designed to run in node, is made to take in various user inputs and then provide information related to the query.
 
 *** to see a live demo of the app please view the link below ***
-https://drive.google.com/file/d/1vhHXuJqPjEFGf1MKchZhUwG0qOR_ABd-/view
+https://drive.google.com/file/d/1WBg9dmy4piIiPOakDZdbhRm-EM5RI18z/view
 
 How It Works:
 Before running app, make sure to run NPM Install to load in needed Modules
@@ -14,7 +14,7 @@ Now you may choose which search you would like to begin by inputing one of the f
 
 - ***node liri.js spotify-this-song "song name here"*** to return song information from Spotify. If no song is entered, The Sign by Ace of Base will be returned.
   
-  - ***node liri.js concert-this "artist/band name here"*** to return concert information from Bandsintown. 
+- ***node liri.js concert-this "artist/band name here"*** to return concert information from Bandsintown. 
   
 - ***node liri.js movie-this "movie name here"*** to return movie information from OMDb. If no movie is entered, a reccomendation for a movie will be displayed.
   
@@ -44,5 +44,5 @@ This page was built with the following technologies, NPM Modules, and API's:
 
 
 For comments/ concerns contact the project 
-Author: Caitlin O'Connor  
-At: Cmoconnor0823@gmail.com
+* Author: Caitlin O'Connor  
+* At: Cmoconnor0823@gmail.com
