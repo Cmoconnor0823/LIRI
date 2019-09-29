@@ -57,7 +57,7 @@ This page was built with the following technologies, NPM Modules, and API's:
 
 [request](https://www.npmjs.com/package/request)
 
-[spotify-npm] (https://www.npmjs.com/package/node-spotify-api)
+[spotify-npm](https://www.npmjs.com/package/node-spotify-api)
 
 ***optional styling done with [chalk](https://www.npmjs.com/package/chalk) ***
 
