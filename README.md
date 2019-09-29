@@ -51,21 +51,21 @@ https://drive.google.com/file/d/1WBg9dmy4piIiPOakDZdbhRm-EM5RI18z/view
 
 This page was built with the following technologies, NPM Modules, and API's:
 
-[Node.js](https://nodejs.org/en/)
+* [Node.js](https://nodejs.org/en/)
 
-[fs](https://www.npmjs.com/package/fs)
+* [fs](https://www.npmjs.com/package/fs)
 
-[request](https://www.npmjs.com/package/request)
+* [request](https://www.npmjs.com/package/request)
 
-[spotify-npm](https://www.npmjs.com/package/node-spotify-api)
+* [spotify-npm](https://www.npmjs.com/package/node-spotify-api)
 
 ***optional styling done with [chalk](https://www.npmjs.com/package/chalk) ***
 
-[Bandsintown API](http://www.artists.bandsintown.com/bandsintown-api)
+* [Bandsintown API](http://www.artists.bandsintown.com/bandsintown-api)
 
-[OMDb API](http://www.omdbapi.com/)
+* [OMDb API](http://www.omdbapi.com/)
 
-[Spotify API](https://developer.spotify.com/documentation/web-api/)
+* [Spotify API](https://developer.spotify.com/documentation/web-api/)
 
 
 * [Git Bash](https://gitforwindows.org/)
